@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="648" height="168" viewBox="0 0 648 168">
+  <defs>
+    <filter id="Rectangle_26339" x="0" y="0" width="648" height="168" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_20118" data-name="Group 20118" transform="translate(4120 -2892)">
+    <g transform="matrix(1, 0, 0, 1, -4120, 2892)" filter="url(#Rectangle_26339)">
+      <rect id="Rectangle_26339-2" data-name="Rectangle 26339" width="630" height="150" rx="10" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Group_19997" data-name="Group 19997" transform="translate(19305 -12808)">
+      <path id="Rectangle_23721" data-name="Rectangle 23721" d="M10,0H210a0,0,0,0,1,0,0V150a0,0,0,0,1,0,0H10A10,10,0,0,1,0,140V10A10,10,0,0,1,10,0Z" transform="translate(-23416 15706)" fill="#f3f7ff"/>
+      <text id="AI_Tags" data-name="AI Tags" transform="translate(-23346 15788)" fill="#43425d" font-size="20" font-family="Helvetica"><tspan x="0" y="0">AI Tags</tspan></text>
+      <g id="picture" transform="translate(-23391 15716.178)">
+        <g id="Group_11282" data-name="Group 11282" transform="translate(0 54.821)">
+          <path id="Path_8378" data-name="Path 8378" d="M24.388,55.433a2.006,2.006,0,0,0-1.471-.612H2.083a2.007,2.007,0,0,0-1.471.612A2.006,2.006,0,0,0,0,56.9V72.737a2.006,2.006,0,0,0,.612,1.471,2.007,2.007,0,0,0,1.471.612H22.917A2.09,2.09,0,0,0,25,72.737V56.9A2.006,2.006,0,0,0,24.388,55.433Zm-1.055,17.3a.421.421,0,0,1-.417.416H2.083a.422.422,0,0,1-.417-.416V56.9a.422.422,0,0,1,.417-.416H22.917a.422.422,0,0,1,.416.416V72.737Z" transform="translate(0 -54.821)" fill="#35344b"/>
+          <path id="Path_8379" data-name="Path 8379" d="M75.6,132.91a2.489,2.489,0,1,0-1.771-.729A2.411,2.411,0,0,0,75.6,132.91Z" transform="translate(-69.762 -124.577)" fill="#35344b"/>
+          <path id="Path_8380" data-name="Path 8380" d="M79.342,180.254l-2.083-2.083-4.167,4.167v2.5H91.425V179l-5.417-5.417Z" transform="translate(-69.759 -168.171)" fill="#35344b"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_20027" data-name="Group 20027">
+      <g id="Group_19996" data-name="Group 19996" transform="translate(-5091 2062)">
+        <g id="Group_19460" data-name="Group 19460" transform="translate(574 169)">
+          <path id="Rectangle_23721-2" data-name="Rectangle 23721" d="M0,0H410a10,10,0,0,1,10,10V140a10,10,0,0,1-10,10H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(616 667)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_20001" data-name="Group 20001" transform="translate(-856 -1723)">
+        <g id="Path_37991" data-name="Path 37991" transform="translate(-3025 4654)" fill="#fff">
+          <path d="M 119.995002746582 34.99499893188477 L 0.004999999888241291 34.99499893188477 L 0.004999999888241291 0.004999999888241291 L 119.995002746582 0.004999999888241291 L 119.995002746582 34.99499893188477 Z" stroke="none"/>
+          <path d="M 0.01000213623046875 0.009998321533203125 L 0.01000213623046875 34.9900016784668 L 119.9899978637695 34.9900016784668 L 119.9899978637695 0.009998321533203125 L 0.01000213623046875 0.009998321533203125 M 0 0 L 120 0 L 120 35 L 0 35 L 0 0 Z" stroke="none" fill="#a0aabe"/>
+        </g>
+        <g id="Path_37992" data-name="Path 37992" transform="translate(-3025 4689)" fill="#fff">
+          <path d="M 119.995002746582 34.99499893188477 L 0.004999999888241291 34.99499893188477 L 0.004999999888241291 0.004999999888241291 L 119.995002746582 0.004999999888241291 L 119.995002746582 34.99499893188477 Z" stroke="none"/>
+          <path d="M 0.01000213623046875 0.009998321533203125 L 0.01000213623046875 34.9900016784668 L 119.9899978637695 34.9900016784668 L 119.9899978637695 0.009998321533203125 L 0.01000213623046875 0.009998321533203125 M 0 0 L 120 0 L 120 35 L 0 35 L 0 0 Z" stroke="none" fill="#a0aabe"/>
+        </g>
+        <g id="Group_19998" data-name="Group 19998" transform="translate(-3010 4659)">
+          <g id="Rectangle_20864" data-name="Rectangle 20864" fill="#fff" stroke="#a0aabe" stroke-width="0.2">
+            <rect width="90" height="26" rx="10" stroke="none"/>
+            <rect x="0.1" y="0.1" width="89.8" height="25.8" rx="9.9" fill="none"/>
+          </g>
+          <text id="Human" transform="translate(12 18)" fill="#5586ef" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Human</tspan></text>
+        </g>
+        <g id="Group_19999" data-name="Group 19999" transform="translate(-3010 4694)">
+          <g id="Rectangle_20864-2" data-name="Rectangle 20864" fill="#fff" stroke="#a0aabe" stroke-width="0.2">
+            <rect width="80" height="26" rx="10" stroke="none"/>
+            <rect x="0.1" y="0.1" width="79.8" height="25.8" rx="9.9" fill="none"/>
+          </g>
+          <text id="Grapefruit_" data-name="Grapefruit
+" transform="translate(12 18)" fill="#5586ef" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Grapefruit</tspan><tspan font-family="Proxima Nova" font-weight="500"><tspan x="0" y="17"></tspan></tspan></text>
+        </g>
+        <g id="Path_37993" data-name="Path 37993" transform="translate(-3025 4724)" fill="#fff">
+          <path d="M 119.995002746582 34.99499893188477 L 0.004999999888241291 34.99499893188477 L 0.004999999888241291 0.004999999888241291 L 119.995002746582 0.004999999888241291 L 119.995002746582 34.99499893188477 Z" stroke="none"/>
+          <path d="M 0.01000213623046875 0.009998321533203125 L 0.01000213623046875 34.9900016784668 L 119.9899978637695 34.9900016784668 L 119.9899978637695 0.009998321533203125 L 0.01000213623046875 0.009998321533203125 M 0 0 L 120 0 L 120 35 L 0 35 L 0 0 Z" stroke="none" fill="#a0aabe"/>
+        </g>
+        <g id="Group_20000" data-name="Group 20000" transform="translate(-3010 4729)">
+          <g id="Rectangle_20864-3" data-name="Rectangle 20864" fill="#fff" stroke="#a0aabe" stroke-width="0.2">
+            <rect width="70" height="26" rx="10" stroke="none"/>
+            <rect x="0.1" y="0.1" width="69.8" height="25.8" rx="9.9" fill="none"/>
+          </g>
+          <text id="Plant" transform="translate(12 18)" fill="#5586ef" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Plant</tspan></text>
+        </g>
+        <g id="Path_37994" data-name="Path 37994" transform="translate(-2905 4654)" fill="#fff">
+          <path d="M 263.9384765625 34.99499893188477 L 4.947916750097647e-06 34.99499893188477 L 0.005004948005080223 0.004999999888241291 L 263.9384765625 0.004999999888241291 L 263.9334716796875 34.99499893188477 L 263.9384765625 34.99499893188477 Z" stroke="none"/>
+          <path d="M 0.010009765625 0.009998321533203125 L 0.010009765625 34.9900016784668 L 263.928466796875 34.9900016784668 L 263.928466796875 0.009998321533203125 L 0.010009765625 0.009998321533203125 M 0 0 L 263.9384765625 0 L 263.9384765625 35 L 0 35 L 0 0 Z" stroke="none" fill="#a0aabe"/>
+        </g>
+        <g id="Path_37995" data-name="Path 37995" transform="translate(-2905 4689)" fill="#fff">
+          <path d="M 263.9384765625 34.99499893188477 L 4.947916750097647e-06 34.99499893188477 L 0.005004948005080223 0.004999999888241291 L 263.9384765625 0.004999999888241291 L 263.9334716796875 34.99499893188477 L 263.9384765625 34.99499893188477 Z" stroke="none"/>
+          <path d="M 0.010009765625 0.009998321533203125 L 0.010009765625 34.9900016784668 L 263.928466796875 34.9900016784668 L 263.928466796875 0.009998321533203125 L 0.010009765625 0.009998321533203125 M 0 0 L 263.9384765625 0 L 263.9384765625 35 L 0 35 L 0 0 Z" stroke="none" fill="#a0aabe"/>
+        </g>
+        <g id="Path_37996" data-name="Path 37996" transform="translate(-2905 4724)" fill="#fff">
+          <path d="M 263.9384765625 34.99499893188477 L 4.947916750097647e-06 34.99499893188477 L 0.005004948005080223 0.004999999888241291 L 263.9384765625 0.004999999888241291 L 263.9334716796875 34.99499893188477 L 263.9384765625 34.99499893188477 Z" stroke="none"/>
+          <path d="M 0.010009765625 0.009998321533203125 L 0.010009765625 34.9900016784668 L 263.928466796875 34.9900016784668 L 263.928466796875 0.009998321533203125 L 0.010009765625 0.009998321533203125 M 0 0 L 263.9384765625 0 L 263.9384765625 35 L 0 35 L 0 0 Z" stroke="none" fill="#a0aabe"/>
+        </g>
+        <rect id="Rectangle_26340" data-name="Rectangle 26340" width="211" height="5" transform="translate(-2894 4662)" fill="#83cf75"/>
+        <rect id="Rectangle_26341" data-name="Rectangle 26341" width="174" height="5" transform="translate(-2894 4677)" fill="#a0aabe"/>
+        <path id="Path_37997" data-name="Path 37997" d="M0,0H156.34V5H0Z" transform="translate(-2894 4697)" fill="#83cf75"/>
+        <rect id="Rectangle_26342" data-name="Rectangle 26342" width="125" height="5" transform="translate(-2894 4712)" fill="#a0aabe"/>
+        <rect id="Rectangle_26343" data-name="Rectangle 26343" width="136" height="5" transform="translate(-2894 4732)" fill="#83cf75"/>
+        <rect id="Rectangle_26344" data-name="Rectangle 26344" width="90" height="5" transform="translate(-2894 4747)" fill="#a0aabe"/>
+        <text id="_35_" data-name="35%" transform="translate(-2678 4669)" fill="#0d182f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">35%</tspan></text>
+        <text id="_25_" data-name="25%" transform="translate(-2714 4685)" fill="#0d182f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">25%</tspan></text>
+        <text id="_30_" data-name="30%" transform="translate(-2733 4704)" fill="#0d182f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">30%</tspan></text>
+        <text id="_17_" data-name="17%" transform="translate(-2765 4718)" fill="#0d182f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">17%</tspan></text>
+        <text id="_27_" data-name="27%" transform="translate(-2755 4738)" fill="#0d182f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">27%</tspan></text>
+        <text id="_15_" data-name="15%" transform="translate(-2802 4754)" fill="#0d182f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">15%</tspan></text>
+      </g>
+      <g id="Group_20020" data-name="Group 20020" transform="translate(-4944 2041)">
+        <line id="Line_402" data-name="Line 402" y1="17" transform="translate(1096.776 873.5) rotate(90)" fill="none" stroke="#83cf75" stroke-width="5"/>
+        <line id="Line_403" data-name="Line 403" y1="17" transform="translate(1219.776 873.5) rotate(90)" fill="none" stroke="#a0aabe" stroke-width="5"/>
+        <text id="Revenue" transform="translate(1102.853 877)" fill="#0d182f" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">Revenue</tspan></text>
+        <text id="Amount_spent" data-name="Amount spent" transform="translate(1225.853 877)" fill="#0d182f" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">Amount spent</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

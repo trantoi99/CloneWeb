@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="28.941" viewBox="0 0 30 28.941">
+  <g id="Group_16234" data-name="Group 16234" transform="translate(-7559 -7163)">
+    <g id="single-02" transform="translate(8888 7448.703)">
+      <g id="Group_22248" data-name="Group 22248" transform="translate(16549 -17858.703)">
+        <g id="Group_22246" data-name="Group 22246">
+          <circle id="Ellipse_1854" data-name="Ellipse 1854" cx="4" cy="4" r="4" transform="translate(-17878 17573)" fill="#a0aabe"/>
+          <circle id="Ellipse_1855" data-name="Ellipse 1855" cx="4" cy="4" r="4" transform="translate(-17867 17573)" fill="#a0aabe"/>
+          <circle id="Ellipse_1856" data-name="Ellipse 1856" cx="4" cy="4" r="4" transform="translate(-17856 17573)" fill="#a0aabe"/>
+        </g>
+        <g id="Group_22247" data-name="Group 22247" transform="translate(0 1)">
+          <rect id="Rectangle_27839" data-name="Rectangle 27839" width="8" height="2" rx="1" transform="translate(-17878 17586)" fill="#a0aabe"/>
+          <rect id="Rectangle_27840" data-name="Rectangle 27840" width="10" height="2" rx="1" transform="translate(-17868 17586)" fill="#a0aabe"/>
+          <rect id="Rectangle_27841" data-name="Rectangle 27841" width="8" height="2" rx="1" transform="translate(-17856 17586)" fill="#a0aabe"/>
+        </g>
+        <path id="Polygon_75" data-name="Polygon 75" d="M4.126,1.573a1,1,0,0,1,1.748,0l3.3,5.941A1,1,0,0,1,8.3,9H1.7A1,1,0,0,1,.825,7.514Z" transform="translate(-17858 17603) rotate(180)" fill="#a0aabe"/>
+      </g>
+    </g>
+  </g>
+</svg>
